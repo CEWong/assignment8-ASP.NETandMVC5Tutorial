@@ -53,3 +53,5 @@ C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\
 C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csprojResolveAssemblyReference.cache
 C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.dll
 C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.pdb
+C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
+C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
