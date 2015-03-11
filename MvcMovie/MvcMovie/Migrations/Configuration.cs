@@ -1,10 +1,10 @@
 namespace MvcMovie.Migrations
 {
     using MvcMovie.Models;
-using System;
-using System.Data.Entity;
-using System.Data.Entity.Migrations;
-using System.Linq;
+    using System;
+    using System.Data.Entity;
+    using System.Data.Entity.Migrations;
+    using System.Linq;
 
     internal sealed class Configuration : DbMigrationsConfiguration<MvcMovie.Models.MovieDBContext>
     {
@@ -15,7 +15,7 @@ using System.Linq;
 
         protected override void Seed(MvcMovie.Models.MovieDBContext context)
         {
-            context.Movies.AddOrUpdate( i => i.Title,
+            context.Movies.AddOrUpdate(i => i.Title,
                 new Movie
                 {
                     Title = "When Harry Met Sally",
@@ -24,8 +24,8 @@ using System.Linq;
                     Price = 7.99M
                 },
 
-                 new Movie
-                 {
+                new Movie
+                {
                     Title = "Ghostbusters ",
                     ReleaseDate = DateTime.Parse("1984-3-13"),
                     Genre = "Comedy",
@@ -40,13 +40,16 @@ using System.Linq;
                      Price = 9.99M
                  },
 
-               new Movie
-               {
-                   Title = "Rio Bravo",
-                   ReleaseDate = DateTime.Parse("1959-4-15"),
-                   Genre = "Western",
-                   Price = 3.99M
-               }
-            };
+                 new Movie
+                 {
+                     Title = "Rio Bravo",
+                     ReleaseDate = DateTime.Parse("1959-4-15"),
+                     Genre = "Western",
+                     Price = 3.99M
+                 }
+            );
+
         }
+    }
 }
+
