@@ -56,3 +56,4 @@ C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\
 C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Initial.resources
 C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.csproj.GenerateResource.Cache
 C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating.resources
+C:\Users\cewon_000\Documents\GitHub\assignment8-ASP.NETandMVC5Tutorial\MvcMovie\MvcMovie\obj\Debug\MvcMovie.Migrations.Rating1.resources
